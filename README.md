@@ -1,4 +1,4 @@
-## Seja bem-vindo 👋
+## Hey 👋
 
 ### Olá, me chamado Ricardo Machado. Sou engenheiro e bacharel em ciência e tecnologia pela Universidade Federal do ABC.
 
