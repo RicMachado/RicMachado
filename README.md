@@ -5,5 +5,4 @@
 > 💻 Apaixonado pelo mundo digital e novas tecnologias!
 > 🌍 Se aventurando no mundo de analytics, ciência de dados, machine learning e big data!
 
-Link do meu linkedin: linkedin.com/in/ricardo-machados/
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-machados/)](https://www.linkedin.com/in/ricardo-machados/)
