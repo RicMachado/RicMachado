@@ -5,3 +5,4 @@
 Apaixonado pelo mundo digital e novas tecnologias!
 
 Link do meu linkedin: linkedin.com/in/ricardo-machados/
+
